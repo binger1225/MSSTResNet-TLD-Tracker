@@ -25,8 +25,8 @@ If you find the code helpful in your research, please consider citing:
 		title = {MSSTResNet-TLD: A robust tracking method based on tracking-learning-detection framework by using multi-scale spatio-temporal residual network feature model},
 		journal = {Neurocomputing},
 		year = {2019},
-		issn = {0925-2312}
+		issn = {0925-2312},
 		doi = {https://doi.org/10.1016/j.neucom.2019.07.024},
-		url = {http://www.sciencedirect.com/science/article/pii/S0925231219309646},
+		url = {http://www.sciencedirect.com/science/article/pii/S0925231219309646}
 	}
 
